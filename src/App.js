@@ -3,7 +3,6 @@ import AddUser from './Components/AddUser';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import UsersList from './Components/UserList';
 
-
 function App() {
   const [usersList, setUsersList] = useState([]);
 
